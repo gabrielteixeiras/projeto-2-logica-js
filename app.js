@@ -1,4 +1,4 @@
-/*let numeroSecreto = gerarNumeroAleatorio();
+let numeroSecreto = gerarNumeroAleatorio();
 let tentativas = 1;
 
 function exibirTextoNaTela(tag, texto) {
@@ -48,5 +48,4 @@ function reiniciarJogo() {
     tentativas = 1;
     exibirMensagemInicial();
     document.getElementById("reiniciar").setAttribute("disabled", true);
-}*/
-
+}
